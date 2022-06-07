@@ -10,5 +10,5 @@
 
 ---
 
-<img src="https://api.daily.dev/devcards/238e48993fe44431b1cfd9974f02a564.png?r=iwr" width="400" alt="XanMarta's Dev Card"/>
+<img src="https://raw.githubusercontent.com/XanMarta/XanMarta/master/devcard.svg" width="400" alt="XanMarta's Dev Card"/>
 
