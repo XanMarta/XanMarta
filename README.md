@@ -2,7 +2,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XanMarta&layout=compact&count_private=true&show_icon=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XanMarta&layout=compact&count_private=true&show_icon=true&theme=material-palenight&langs_count=10)
 
 ---
 
